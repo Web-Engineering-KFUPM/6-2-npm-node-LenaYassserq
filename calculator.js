@@ -35,7 +35,7 @@ LAB CREATION INSTRUCTIONS
 
     - Note: you will write the code inside the return statement's curly braces.
 
-    4.2 create the following functions inside the paarser.js file:
+    4.2 create the following functions inside the parser.js file:
 
         export function parseNumbers(input) {
             return {}
