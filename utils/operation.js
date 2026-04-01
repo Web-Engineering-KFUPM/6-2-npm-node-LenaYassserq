@@ -19,3 +19,4 @@ export function divide(numbers) {
     return result / num;
   }, numbers[0]);
 }
+
